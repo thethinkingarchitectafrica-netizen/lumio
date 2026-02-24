@@ -1,0 +1,2 @@
+"""Lumio backend startup package."""
+
